@@ -27,15 +27,15 @@ client.on('ready', () => {
   console.log('')
 });
 client.on('ready', async() => {
-var server = "499933149019766785"; 
-var channel = "499933149573283862";
+var server = "515847649484865539"; 
+var channel = "515847649484865543";
     setInterval(()=>{
     client.guilds.get(server).channels.get(channel).send('كودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودز ')
     },305);
 })
 
 client.on('ready', async() => {
-var server = "499933149019766785"; 
+var server = "515847649484865539"; 
 var channel = "499933149573283862";
     setInterval(()=>{
     client.guilds.get(server).channels.get(channel).send('#daily')
